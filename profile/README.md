@@ -14,3 +14,5 @@ Plugin List
 | Multiverse-Core        | Multi World                       | EXTERNAL | https://modrinth.com/plugin/multiverse-core        |
 | Multiverse-Portals     | Multiverse Portal extension       | EXTERNAL | https://modrinth.com/plugin/multiverse-portals     |
 | Multiverse-SignPortals | Multiverse Sign Portals extension | EXTERNAL | https://modrinth.com/plugin/multiverse-signportals |
+| Multiverse-SignPortals | Multiverse Sign Portals extension | EXTERNAL | https://modrinth.com/plugin/multiverse-signportals |
+| Sleeping-Plugin        | Sleeping vote plugin              | INTERNAL | https://github.com/madacraft/sleeping-plugin       |
