@@ -2,17 +2,17 @@
 
 Plugin List
 
-| Name                   | Description                       | Type     | Link                                               |
-|------------------------|-----------------------------------|----------|----------------------------------------------------|
-| CoreProtect            | Grief protection                  | EXTERNAL | https://modrinth.com/plugin/coreprotect            |
-| LuckPerms              | Permissions                       | EXTERNAL | https://modrinth.com/plugin/luckperms              |
-| Authy                  | Authentication                    | EXTERNAL | https://modrinth.com/plugin/authy                  |
-| DiscordSRV             | Discord Integration               | EXTERNAL | https://modrinth.com/plugin/discordsrv             |
-| TPA                    | Home and Teleport                 | EXTERNAL | https://modrinth.com/plugin/tpa.66666              |
-| MinecraftREST          | REST API Plugin                   | EXTERNAL | https://modrinth.com/plugin/minecraftrest          |
-| BlockProt              | Protect Block                     | EXTERNAL | https://modrinth.com/plugin/blockprot              |
-| Multiverse-Core        | Multi World                       | EXTERNAL | https://modrinth.com/plugin/multiverse-core        |
-| Multiverse-Portals     | Multiverse Portal extension       | EXTERNAL | https://modrinth.com/plugin/multiverse-portals     |
-| Multiverse-SignPortals | Multiverse Sign Portals extension | EXTERNAL | https://modrinth.com/plugin/multiverse-signportals |
-| Multiverse-SignPortals | Multiverse Sign Portals extension | EXTERNAL | https://modrinth.com/plugin/multiverse-signportals |
-| Sleeping-Plugin        | Sleeping vote plugin              | INTERNAL | https://github.com/madacraft/sleeping-plugin       |
+| Name                   | Description                       | Type     | Link                                                          |
+|------------------------|-----------------------------------|----------|---------------------------------------------------------------|
+| CoreProtect            | Grief protection                  | EXTERNAL | https://modrinth.com/plugin/coreprotect                       |
+| LuckPerms              | Permissions                       | EXTERNAL | https://modrinth.com/plugin/luckperms                         |
+| Authy                  | Authentication                    | EXTERNAL | https://modrinth.com/plugin/authy                             |
+| DiscordSRV             | Discord Integration               | EXTERNAL | https://modrinth.com/plugin/discordsrv                        |
+| TPA                    | Home and Teleport                 | EXTERNAL | https://modrinth.com/plugin/tpa.66666                         |
+| ServerTap              | REST API Plugin                   | EXTERNAL | https://github.com/servertap-io/servertap/releases/tag/v0.6.1 |
+| BlockProt              | Protect Block                     | EXTERNAL | https://modrinth.com/plugin/blockprot                         |
+| Multiverse-Core        | Multi World                       | EXTERNAL | https://modrinth.com/plugin/multiverse-core                   |
+| Multiverse-Portals     | Multiverse Portal extension       | EXTERNAL | https://modrinth.com/plugin/multiverse-portals                |
+| Multiverse-SignPortals | Multiverse Sign Portals extension | EXTERNAL | https://modrinth.com/plugin/multiverse-signportals            |
+| Multiverse-SignPortals | Multiverse Sign Portals extension | EXTERNAL | https://modrinth.com/plugin/multiverse-signportals            |
+| Sleeping-Plugin        | Sleeping vote plugin              | INTERNAL | https://github.com/madacraft/sleeping-plugin                  |
